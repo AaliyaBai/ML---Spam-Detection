@@ -50,7 +50,7 @@ Predict outcomes on the test set
 
 Evaluate accuracy and performance using classification report
 
-5. Prediction on New Data
+#### 5. Prediction on New Data
 
 Example email message is transformed using the trained vectorizer
 
